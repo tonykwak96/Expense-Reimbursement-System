@@ -10,6 +10,18 @@ The Expense Reimbursement System will manage the process of reimbursing employee
  - Google Cloud Platform SQL
  - MySQL
 
+# Global Environment
+ - `MY_PORT` Port Nuber 
+ - `DB_URL` The URL for the database
+ - 'DB_USERNAME` The username used by the API
+ - `DB_PASSWORD` The password of user
+
+# Getting Started
+ - Clone the repository
+ - Downlaod Post or Insomnia for API Testing
+ - Set up global environment
+ - Run application
+ - 
 # Screenshot of some APIs
 ![Capture](https://user-images.githubusercontent.com/32178366/168208237-f02f66d7-3d6b-4692-9ec3-8cc2bb787854.JPG)
 
