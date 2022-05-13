@@ -21,7 +21,7 @@ The Expense Reimbursement System will manage the process of reimbursing employee
  - Downlaod Post or Insomnia for API Testing
  - Set up global environment
  - Run application
- - 
+ 
 # Screenshot of some APIs
 ![Capture](https://user-images.githubusercontent.com/32178366/168208237-f02f66d7-3d6b-4692-9ec3-8cc2bb787854.JPG)
 
