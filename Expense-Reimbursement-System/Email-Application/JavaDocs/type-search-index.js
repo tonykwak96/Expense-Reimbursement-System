@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.example.EmailApplication.Models","l":"Email"},{"p":"com.example.EmailApplication","l":"EmailApplication"},{"p":"com.example.EmailApplication.Controllers","l":"EmailController"},{"p":"com.example.EmailApplication.Repo","l":"EmailRepo"},{"p":"com.example.EmailApplication.Services","l":"EmailService"}]

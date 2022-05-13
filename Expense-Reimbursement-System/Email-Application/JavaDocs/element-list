@@ -1,0 +1,5 @@
+com.example.EmailApplication
+com.example.EmailApplication.Controllers
+com.example.EmailApplication.Models
+com.example.EmailApplication.Repo
+com.example.EmailApplication.Services
