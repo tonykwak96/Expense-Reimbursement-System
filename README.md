@@ -13,7 +13,7 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 # Global Environment
  - `MY_PORT` Port Nuber 
  - `DB_URL` The URL for the database
- - 'DB_USERNAME` The username used by the API
+ - `DB_USERNAME` The username used by the API
  - `DB_PASSWORD` The password of user
 
 # Getting Started
