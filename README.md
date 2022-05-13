@@ -9,3 +9,9 @@ The Expense Reimbursement System will manage the process of reimbursing employee
  - Docker
  - Google Cloud Platform SQL
  - MySQL
+
+# Test Coverage
+ - Email Application
+![Email-Application-coverage](https://user-images.githubusercontent.com/32178366/168207945-01ff0cd4-fc24-4b9c-8931-c0736da3f694.JPG)
+ - Main Application
+ ![Project1-coverage](https://user-images.githubusercontent.com/32178366/168207992-7b058214-ce1b-4bf5-b78e-6fce3f736fa7.JPG)
