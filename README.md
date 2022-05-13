@@ -10,6 +10,10 @@ The Expense Reimbursement System will manage the process of reimbursing employee
  - Google Cloud Platform SQL
  - MySQL
 
+# Screenshot of some APIs
+![Capture](https://user-images.githubusercontent.com/32178366/168208237-f02f66d7-3d6b-4692-9ec3-8cc2bb787854.JPG)
+
+
 # Test Coverage
  - Email Application
 ![Email-Application-coverage](https://user-images.githubusercontent.com/32178366/168207945-01ff0cd4-fc24-4b9c-8931-c0736da3f694.JPG)
